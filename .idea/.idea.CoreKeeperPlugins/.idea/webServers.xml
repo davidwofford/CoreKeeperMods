@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="75ffee79-4a0f-48a9-9d60-af40b7080f54" name="localhost" url="http://localhost">
+        <fileTransfer mountedRoot="G:\SteamLibrary\steamapps\common\Core Keeper\BepInEx\plugins" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

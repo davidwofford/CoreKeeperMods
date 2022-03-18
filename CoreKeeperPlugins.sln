@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{F52EE555-2F5F-4D08-AA65-1C21D9B0C164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicraft", "Multicraft\Multicraft.csproj", "{AAB03243-827C-4BCF-AE31-0DC7A78221D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52EE555-2F5F-4D08-AA65-1C21D9B0C164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52EE555-2F5F-4D08-AA65-1C21D9B0C164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52EE555-2F5F-4D08-AA65-1C21D9B0C164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52EE555-2F5F-4D08-AA65-1C21D9B0C164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52EE555-2F5F-4D08-AA65-1C21D9B0C164}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AAB03243-827C-4BCF-AE31-0DC7A78221D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB03243-827C-4BCF-AE31-0DC7A78221D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB03243-827C-4BCF-AE31-0DC7A78221D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB03243-827C-4BCF-AE31-0DC7A78221D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
