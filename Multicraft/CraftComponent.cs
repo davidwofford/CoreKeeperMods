@@ -19,7 +19,7 @@ public class CraftComponent : MonoBehaviour
 
     internal static GameObject Create()
     {
-        GameObj = new GameObject("ClockObject");
+        GameObj = new GameObject("CraftObject");
         DontDestroyOnLoad(GameObj);
 
         var component = new CraftComponent(GameObj.AddComponent(UnhollowerRuntimeLib.Il2CppType.Of<CraftComponent>()).Pointer);
